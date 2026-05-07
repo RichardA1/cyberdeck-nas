@@ -1,0 +1,28 @@
+Category,Component,Model,Part_Number,Qty,Unit_Cost_USD,Total_Cost_USD,Supplier,Link,Stock_Check,Notes,Datasheets
+Core Computing,Single Board Computer,Raspberry Pi 4B 8GB,SC-0201,1,75.00,75.00,Adafruit,"https://www.adafruit.com/product/4564","https://shop.pimoroni.com","Dual WiFi 5GHz+2.4GHz, Bluetooth 5.0, 8GB RAM",/hardware/datasheets/pi4b_datasheet.pdf
+Core Computing,Storage,Samsung 870 EVO 1TB SSD,MZ-77E1T0B/AM,1,60.00,60.00,Amazon,"https://www.amazon.com/s?k=samsung+870+evo+1tb","Check seller","USB 3.0 2.5in Form Factor, ~97 MB/s",/hardware/datasheets/samsung_870_evo.pdf
+Core Computing,USB Hub,Anker 7-in-1 USB-C Hub,A8343011,1,25.00,25.00,Amazon,"https://www.amazon.com/s?k=Anker+7in1+hub","Check seller","USB-C PD, USB 3.0, HDMI, SD Card Reader",/hardware/datasheets/anker_hub.pdf
+Core Computing,Boot Storage,Samsung Pro 128GB SD Card,MZ-128S,1,20.00,20.00,Amazon,"https://www.amazon.com/s?k=samsung+pro+sd+card","Check availability","Recommended for reliability, alternative: SanDisk Extreme",/hardware/datasheets/samsung_sd_pro.pdf
+Wireless - LoRa,LoRa Module,RFM95W 915MHz,RFM95W-915,1,15.00,15.00,AliExpress,"https://www.aliexpress.com/item/32896148175.html","Check price","SPI Interface, ~100mA active, 5km+ range",/hardware/datasheets/rfm95w_datasheet.pdf
+Wireless - LoRa,GPIO Header,GPIO Hammer Header Kit,GPIO-001,1,8.00,8.00,Adafruit,"https://www.adafruit.com/product/2822","Check stock","2x20 header, SPI pinout breakout for LoRa",/hardware/datasheets/gpio_header.pdf
+Wireless - LoRa,Antenna,LoRa Antenna 5dBi UFL,LORA-ANT-915,1,12.00,12.00,AliExpress,"https://www.aliexpress.com/item/32880203007.html","Check price","915MHz, UFL connector, 5dBi gain, RP-SMA adapter",/hardware/datasheets/lora_antenna.pdf
+Power,Power Bank,Anker PowerCore Elite 30000mAh,A1285011,1,50.00,50.00,Amazon,"https://www.amazon.com/s?k=Anker+PowerCore+Elite+30000","Check seller","USB-C PD 65W, 150Wh capacity, dual USB output",/hardware/datasheets/anker_powercore.pdf
+Power,Power Cable,USB-C Cable 6ft E-marker,CABLE-001,2,10.00,20.00,Amazon,"https://www.amazon.com/s?k=e-marker+usb-c+cable","Check seller","High-quality, certified, 5A rated",/hardware/datasheets/usb-c_cable.pdf
+Power,Power Management,PiJuice Zero HAT (optional),PJ-ZERO,1,35.00,35.00,Pimoroni,"https://shop.pimoroni.com/products/pijuice-zero","Check stock","UPS functionality, battery management, RTC backup (OPTIONAL)",/hardware/datasheets/pijuice_zero.pdf
+Display,TFT Display,Adafruit 3.5 inch PiTFT Plus,3733,1,45.00,45.00,Adafruit,"https://www.adafruit.com/product/2441","Check stock","480x320, SPI interface, GPIO attached",/hardware/datasheets/pitft_plus_guide.pdf
+Display,Buttons,Momentary Tactile Switch Kit,BTN-001,5,1.60,8.00,AliExpress,"https://www.aliexpress.com/item/32992256922.html","Check price","Menu navigation, power button, 5+ switches",/hardware/datasheets/tactile_switch.pdf
+Timekeeping,Real-Time Clock,DS3231 I2C RTC Module,DS3231,1,8.00,8.00,AliExpress,"https://www.aliexpress.com/item/32840392197.html","Check price","I2C interface, coin battery backup, ±2ppm accuracy",/hardware/datasheets/ds3231_datasheet.pdf
+Sensors,Temperature/Humidity,DHT22 Temperature Sensor,DHT22,1,8.00,8.00,AliExpress,"https://www.aliexpress.com/item/32925892361.html","Check price","Optional environment monitoring, 5m max cable",/hardware/datasheets/dht22_datasheet.pdf
+Enclosure,Main Case,Pelican 1450 Case,1450-000-000,1,35.00,35.00,Amazon,"https://www.amazon.com/s?k=pelican+1450+case","Check seller","Waterproof, customizable foam, durable",/hardware/datasheets/pelican_1450.pdf
+Enclosure,Mounting System,Aluminum Rail Kit,RAIL-001,1,20.00,20.00,AliExpress,"https://www.aliexpress.com/item/32994747236.html","Check price","3D printable or aluminum extrusion mounting",/hardware/datasheets/aluminum_rail.pdf
+Cabling,USB Connectors,"USB-A, USB-C, Micro assorted",CONN-001,1,10.00,10.00,AliExpress,"https://www.aliexpress.com/item/32838889997.html","Check price","Various connectors and adapters",NONE
+Cabling,Heat Shrink Tubing,Assorted kit 2:1 & 3:1,HSK-001,1,8.00,8.00,AliExpress,"https://www.aliexpress.com/item/32972754652.html","Check price","Multiple sizes, flame retardant",NONE
+Cabling,Ferrule Kit,Insulated crimp ferrules,FER-001,1,5.00,5.00,Amazon,"https://www.amazon.com/s?k=insulated+ferrule+kit","Check seller","Wire crimps for solder-free connections",NONE
+Cabling,Hookup Wire,22AWG stranded multicolor,WIRE-001,1,7.00,7.00,AliExpress,"https://www.aliexpress.com/item/32798200631.html","Check price","100ft roll, multiple colors for organization",NONE
+Miscellaneous,Thermal Paste,Arctic Silver 5 (5g),ARC-5,1,5.00,5.00,Amazon,"https://www.amazon.com/s?k=arctic+silver+5","Check seller","Optional for CPU heat management",NONE
+Miscellaneous,Heatsinks,Raspberry Pi passive heatsink,HS-001,3,2.00,6.00,AliExpress,"https://www.aliexpress.com/item/32901559564.html","Check price","CPU + RAM cooling, passive (no fan)",NONE
+Miscellaneous,Anodized Aluminum Stand,M3 standoff kit,STAND-001,1,8.00,8.00,AliExpress,"https://www.aliexpress.com/item/32987654321.html","Check price","Various heights for component spacing",NONE
+Miscellaneous,Solder & Flux,Lead-free solder spool,SOL-001,1,5.00,5.00,Amazon,"https://www.amazon.com/s?k=lead+free+solder","Check seller","For component assembly and repairs",NONE
+Miscellaneous,GPIO testing jumpers,Breadboard jumper wire set,JUMP-001,1,6.00,6.00,AliExpress,"https://www.aliexpress.com/item/32989700991.html","Check price","Various lengths for prototyping",NONE
+Miscellaneous,Testing/Tools,Small screwdriver set + tweezers,TOOL-001,1,8.00,8.00,Amazon,"https://www.amazon.com/s?k=precision+screwdriver+set","Check seller","Assembly and troubleshooting tools",NONE
+,,,SUBTOTAL,1,,,TOTAL: $473.00,,,
